@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+*.db
+*.spec
+.claude/
+build_done.txt
+install_done.txt
+build_log.txt
+install_log.txt
+stderr.txt
+stdout.txt
+debug*.log
+long_test.log
+app_output.log
